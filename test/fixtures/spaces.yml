@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  wreck: false
+  reuse: false
+  sq-ft: 1
+
+two:
+  wreck: false
+  reuse: false
+  sq-ft: 1
